@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/jasonandjay/study/issues"
   },
-  "homepage": "https://jasonandjay.github.io/study/",
+  "homepage": "https://equasoda.github.io/study/",
   "gitHooks": {
     "pre-commit": ""
   },
